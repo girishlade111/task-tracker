@@ -243,3 +243,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Support
 
 For issues or questions, please open a GitHub issue.
+---
+
+Built by Girish Lade — https://ladestack.in
